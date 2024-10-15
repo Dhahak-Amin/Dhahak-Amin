@@ -2,7 +2,7 @@
 
 <div style="position: relative; width: 100%;">
   <!-- Background Image -->
-  <img src="Africa.jpg" alt="Background Image" style="width: 100%; height: auto;">
+  <img src="cover.jpg" alt="Background Image" style="width: 100%; height: auto;">
   
   <!-- Profile Image Positioned in Front of the Background -->
   <img src="me.jpg" alt="Profile Image" 

@@ -1,14 +1,21 @@
-# Hi 👋, I'm Muhammad Ali
 
-<div style="position: relative; width: 100%;">
-  <!-- Background Image -->
-  <img src="cover.jpg" alt="Background Image" style="width: 100%; height: auto;">
+
+<div align="center">
+  <img alt="Profile Pic" src="resources/cover_profile_simple.png">
+  <div id="user-content-toc">
+    <div align="center">
+      <h1 style="text-align: center; margin-top: 20">Hi 👋, I'm Muhammad Ali </h1>
+    </div>
+  </div>
   
-  <!-- Profile Image Positioned in Front of the Background -->
-  <img src="me.jpg" alt="Profile Image" 
-       style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-       border-radius: 50%; border: 5px solid white; width: 150px; height: 150px;">
+<div style="text-align: center; position: relative;">
+    <img style="width: 100%; height: 250px;" alt="Background" src="Africa.jpg">
+    <div
+        style="width: 150px; height: 150px; position: absolute; border-radius: 50%; overflow: hidden; left: 50%; bottom: 0; transform: translate(-50%, 50%);">
+        <img alt="Profile Pic" src="me.jpg">
+    </div>
 </div>
+
 
 
 ---

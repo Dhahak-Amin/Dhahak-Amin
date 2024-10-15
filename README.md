@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="me.png" alt="Banner Image"/>
+  <img src="me.jgg" alt="Banner Image"/>
 </p>
 
 

@@ -4,9 +4,10 @@
   <img src="Africa.jpg" alt="African Background " width="1000">
 </div>
 
-<p align="center">
-  <img src="me.jgg" alt="Banner Image"/>
-</p>
+<div align="center">
+  <img src="me.jpg" alt="Profile Image" width="200"/>
+</div>
+
 
 
 ---

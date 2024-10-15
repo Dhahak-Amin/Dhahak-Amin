@@ -1,8 +1,13 @@
 # Hi 👋, I'm Muhammad Ali
 
+<div align="center">
+  <img src="Africa.jpg" alt="African Background " width="1000">
+</div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/main/assets/banner.png" alt="Banner Image"/>
 </p>
+
 
 ---
 

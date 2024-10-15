@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/main/assets/banner.png" alt="Banner Image"/>
+  <img src="me.png" alt="Banner Image"/>
 </p>
 
 

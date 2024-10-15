@@ -1,13 +1,14 @@
 # Hi 👋, I'm Muhammad Ali
 
-<div align="center">
-  <img src="Africa.jpg" alt="African Background " width="1000">
+<div style="position: relative; width: 100%;">
+  <!-- Background Image -->
+  <img src="Africa.jpg" alt="Background Image" style="width: 100%; height: auto;">
+  
+  <!-- Profile Image Positioned in Front of the Background -->
+  <img src="me.jpg" alt="Profile Image" 
+       style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+       border-radius: 50%; border: 5px solid white; width: 150px; height: 150px;">
 </div>
-
-<div align="center">
-  <img src="me.jpg" alt="Profile Image" width="200"/>
-</div>
-
 
 
 ---

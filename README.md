@@ -9,7 +9,7 @@
   </div>
   
 <div style="text-align: center; position: relative;">
-    <img style="width: 100%; height: 250px;" alt="Background" src="Africa.jpg">
+    <img style="width: 100%; height: 250px;" alt="Background" src="cover.jpg">
     <div
         style="width: 150px; height: 150px; position: absolute; border-radius: 50%; overflow: hidden; left: 50%; bottom: 0; transform: translate(-50%, 50%);">
         <img alt="Profile Pic" src="me.jpg">

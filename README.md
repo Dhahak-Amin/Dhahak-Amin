@@ -1,25 +1,20 @@
 <div align="center">
-  <!-- Profile Pic -->
-  <div style="position: relative;">
-    <img alt="Profile Pic" src="me.png" style="width: 150px; border-radius: 50%; border: 5px solid white;">
-    <h1 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 48px; margin-top: 20px;">Hi 👋, I'm Muhammad Ali</h1>
+  <!-- Background with Profile Image in Front -->
+  <div style="text-align: center; position: relative; margin-top: 40px;">
+      <img style="width: 100%; height: 250px; object-fit: cover;" alt="Background" src="tsa.png"> 
+      <div
+          style="width: 150px; height: 150px; position: absolute; border-radius: 50%; overflow: hidden; left: 50%; bottom: 0; transform: translate(-50%, 50%); border: 5px solid white;">
+          <img alt="Profile Pic" src="me.jpg"> 
+      </div>
   </div>
 
   <!-- Typing SVG -->
+  <h1 style="text-align: center; font-family: 'Arial', sans-serif; font-size: 48px; margin-top: 20px;">Hi 👋, I'm Muhammad Ali</h1>
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!;I'm+Muhammad+Ali;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-
+  
   <!-- Moving Gradient Divider -->
   <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Moving Gradient Divider" style="width: 100%; height: 10px;">
-  </div>
-
-  <!-- Background with Profile Image in Front -->
-  <div style="text-align: center; position: relative; margin-top: 40px;">
-      <img style="width: 100%; height: 250px; object-fit: cover;" alt="Background" src="tsa.png">
-      <div
-          style="width: 150px; height: 150px; position: absolute; border-radius: 50%; overflow: hidden; left: 50%; bottom: 0; transform: translate(-50%, 50%); border: 5px solid white;">
-          <img alt="Profile Pic" src="me.jpg">
-      </div>
   </div>
 </div>
 
@@ -42,6 +37,47 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### Web Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+### DevOps & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+</p>
+
+### Data Analysis & Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### Database Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NoSQL-%23004D61.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+
+### DevOps/Project Management
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-%230A74DA.svg?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ## 🔥 **GitHub Stats**
@@ -56,19 +92,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide=javascript,html" alt="Most Used Languages"/>
 </p>
 
-## 📈 **GitHub Contributions - Pac-Man Game**
-
-<p align="center">
-  <img src="https://github.com/YourGitHubUsername/YourRepoName/blob/output/github-pacman.svg" alt="GitHub Contribution Pac-Man Game" />
-</p>
-
 ## ✨ **Get In Touch**
 
 - 📂 [My Portfolio](#)  
-- ✉️ Reach me via email: dhahak@insa-toulouse.fr  
-- 🌍 [LinkedIn](https://www.linkedin.com/in/muhammad-ali-dhahak-smith-653bb8332/)  
-
-<!-- Moving Gradient Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Moving Gradient Divider" style="width: 100%; height: 10px;">
+- ✉️ Reach me via email: dhahak@insa-toulouse.fr
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-dhahak-smith-653bb8332/)  
+  <!-- Moving Gradient Divider -->
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Moving Gradient Divider" style="width: 100%; height: 10px;">
+  </div>
 </div>

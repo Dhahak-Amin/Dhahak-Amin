@@ -15,7 +15,7 @@
 
   <!-- Background with Profile Image in Front -->
   <div style="text-align: center; position: relative; margin-top: 40px;">
-      <img style="width: 100%; height: 250px; object-fit: cover;" alt="Background" src="resources/cover_profile_simple.png">
+      <img style="width: 100%; height: 250px; object-fit: cover;" alt="Background" src="tsa.png">
       <div
           style="width: 150px; height: 150px; position: absolute; border-radius: 50%; overflow: hidden; left: 50%; bottom: 0; transform: translate(-50%, 50%); border: 5px solid white;">
           <img alt="Profile Pic" src="me.jpg">

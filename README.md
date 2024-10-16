@@ -15,7 +15,7 @@
 
   <!-- Background with Profile Image in Front -->
   <div style="text-align: center; position: relative; margin-top: 40px;">
-      <img style="width: 100%; height: 250px; object-fit: cover;" alt="Background" src="cover.jpg">
+      <img style="width: 100%; height: 250px; object-fit: cover;" alt="Background" src="resources/cover_profile_simple.png">
       <div
           style="width: 150px; height: 150px; position: absolute; border-radius: 50%; overflow: hidden; left: 50%; bottom: 0; transform: translate(-50%, 50%); border: 5px solid white;">
           <img alt="Profile Pic" src="me.jpg">
@@ -23,18 +23,12 @@
   </div>
 </div>
 
----
-
 ## 👨‍💻 **About Me**
 
-<div align="center">
-  - 📂 [Check out my Portfolio](#)  
-  - 🌱 Currently a Senior at INSA Toulouse  
-  - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-dhahak-smith-653bb8332/)  
-  - ✉️ Say hi: dhahak@insa-toulouse.fr  
-</div>
-
----
+- 📂 [Check out my Portfolio](#)  
+- 🌱 Currently a Senior at INSA Toulouse  
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-dhahak-smith-653bb8332/)  
+- ✉️ Say hi: dhahak@insa-toulouse.fr  
 
 ## 💻 **Tech Stack**
 
@@ -50,15 +44,11 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/>
 </p>
 
----
-
 ## 🔥 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
----
 
 ## 🌟 **Most Used Languages**
 
@@ -66,23 +56,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide=javascript,html" alt="Most Used Languages"/>
 </p>
 
----
-
-## 📈 **GitHub Contributions**
+## 📈 **GitHub Contributions - Pac-Man Game**
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YourGitHubUsername&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github.com/YourGitHubUsername/YourRepoName/blob/output/github-pacman.svg" alt="GitHub Contribution Pac-Man Game" />
 </p>
-
----
 
 ## ✨ **Get In Touch**
 
-<div align="center">
-  - 📂 [My Portfolio](#)  
-  - ✉️ Reach me via email: dhahak@insa-toulouse.fr  
-  - 🌍 [LinkedIn](https://www.linkedin.com/in/muhammad-ali-dhahak-smith-653bb8332/)  
-</div>
+- 📂 [My Portfolio](#)  
+- ✉️ Reach me via email: dhahak@insa-toulouse.fr  
+- 🌍 [LinkedIn](https://www.linkedin.com/in/muhammad-ali-dhahak-smith-653bb8332/)  
 
 <!-- Moving Gradient Divider -->
 <div align="center">

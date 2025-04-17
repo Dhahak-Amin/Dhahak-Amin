@@ -1,6 +1,14 @@
 <div align="center">
   <!-- Typing SVG Banner -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!;I'm+Muhammad+Ali;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;I%27m+Muhammad+Amin;Welcome+to+my+GitHub!"
+      alt="Typing SVG Banner"
+      style="max-width:100%;"
+    />
+  </a>
+<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
        alt="Divider" style="width:100%;height:10px;margin-top:16px;" />
 
